@@ -43,7 +43,7 @@ $ cp .env.example .env
 $ php artisan key:generate
 $ npm install
 $ bower install
-$ composer update
+$ composer install
 $ gulp
 ```
 The final step is to edit the .env file and adjust the database settings to your own.
