@@ -1,6 +1,8 @@
 Petrie
 ======
 
+[![Join the chat at https://gitter.im/SimplyReactive/petrie](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SimplyReactive/petrie?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/SimplyReactive/petrie.svg?branch=master)](https://travis-ci.org/SimplyReactive/petrie)
 [![StyleCI](https://styleci.io/repos/36135933/shield)](https://styleci.io/repos/36135933)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/SimplyReactive/petrie/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/SimplyReactive/petrie/?branch=master)
